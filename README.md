@@ -1,2 +1,7 @@
-# systemverilog-practice
-My solutions and notes from learning SystemVerilog and digital design, from basic logic to FSMs.
+SystemVerilog Practice
+
+Exercises and notes from learning digital design in SystemVerilog, in preparation for FPGA projects.
+
+Tools: Vivado, HDLBits
+
+Topics: combinational logic, sequential logic, finite state machines, testbenches
